@@ -1,0 +1,129 @@
+.navbar-nav :hover{
+    color: black;
+    transition: .3s;
+   }
+   .cart-item{
+     background-color:orangered;
+     border-radius: 50%;
+     align-items: center;
+     margin-left:10px ;
+   }
+   .container1{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+   }
+   .left{
+     width: 50%;
+   }
+   .right{
+     max-width:50%;
+       height:20%;
+   }
+   .content{
+     padding: 2rem;
+   }
+   .text1
+   {
+     font-weight: bold;
+   }
+   .card-title
+   {
+     size: py;
+   }
+   .pizzavariaty
+   {
+   display: flex;
+   gap: 80px;
+   justify-content: center;
+   flex-wrap: wrap;
+   }
+   .titleandtext{
+     text-align: center;
+   }
+   .priceandbutton{
+     display:flex;
+     justify-content: center;
+   }
+   .btn{
+     font-weight: bold;
+     color: white;
+     background-color: rgb(245, 97, 43);
+     border-radius: 25px;
+   }
+   .pizzamap{
+    display: grid;
+    grid-template-columns: auto;
+   }
+   .card-img-top{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .card-title
+  {
+    font-size:18px;
+    color: #4B4A4E;
+    text-align: center;
+  }
+  .col-lg-5
+  {
+    width: 150%;
+    height: 150%;
+  }
+  .card-text
+  {
+    color:black;
+    font-size:18px;
+    text-align: center;
+  }
+  .col-lg-4
+  {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+   
+  }
+  .fw-bold
+  {
+    color: black;
+    font-weight: normal;
+  }
+  .price
+  {
+    font-weight: bold;
+    color: rgb(236, 147, 39);
+    text-align: center;
+  }
+  .card:hover{
+    transform: scale(1.02);
+    opacity: 3;
+    transition: 0.15s;
+    border: 2px solid rgb(236, 147, 39)
+  }
+  .btn:hover{
+  background: rgb(119, 20, 74);
+  }
+  
+  .price
+  {
+    color: #B12704;
+  }
+  .col-lg-3
+  {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+  }
+  .addtoCart{
+    font-weight: bold;
+    color: white;
+    background-color: rgb(245, 97, 43);
+    border-radius: 25px;
+    margin-left: 30%;
+  }
+  .wait{
+    color:coral
+  }
+  .orderNow{
+    color:coral
+  }

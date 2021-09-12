@@ -1,0 +1,104 @@
+.cart-font{
+    text-align: center;
+    font-weight: bold;
+}
+.des-font
+{
+    text-align: center;
+    font-weight: lighter;
+}
+.cart-img{
+ 
+  margin-left: 200px;
+}
+.btn
+{
+    margin-top: 10px;
+    align-items: center;
+    background-color: orangered;
+}
+.order{
+    width: 50%;
+}
+.ordersummary{
+    display: flex;
+    align-items: center;
+    border-bottom: gray solid 1px;
+    text-align: center;
+}
+.textorder
+{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.orderitemlist
+{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.imgitem
+{
+width: 24%;
+}
+.productsum
+{
+    margin-left: 4%;
+    flex: 1%;
+}
+.orderprice
+{
+    font-weight: bold;
+    font-size: x-large;
+}
+.orderquantity
+{
+    flex: 1%;
+}
+.pizzalist{
+    margin: 10px;
+}
+.cartaddeditems
+{
+    padding: 5%;
+}
+.totalprice
+{
+    text-align: right;
+    padding: 1%;
+}
+.texttotal
+{
+    font-weight: bold;
+    font-size: large;
+
+}
+.textamount
+{
+    font-weight: bold;
+    font-size: x-large;
+    color: orangered;
+}
+.phonenumberbox
+{
+    border: gray solid 300;
+    padding: 1%;
+    width: 50%;
+    margin-bottom: 2%;
+}
+.addressbox
+{
+    border: gray solid 300;
+    padding: 1%;
+    width: 50%;
+}
+.mt-12{
+    margin-top: 8%;
+}
+.login
+{
+    display: inline;
+    cursor: pointer;
+    padding: 6%;
+    margin-top: 6%;
+}
